@@ -1,0 +1,1 @@
+# PSBench-Editing-Image-via-GUI-Agents-in-Photoshop
